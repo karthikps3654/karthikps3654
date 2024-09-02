@@ -6,10 +6,13 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 - 🌱 I’m currently learning Advanced machine learning techniques,Web development
 - 👯 I’m looking to collaborate on Projects on AI & ML,open-source projects 
-- 🤔 I’m looking for help with [Specific Challenges or Learning Goals, e.g., optimizing algorithms].
-- 💬 Ask me about [Your Expertise or Interests, e.g., Python, data visualization, etc.].
+- 🤔 I’m looking for help with Learning New Technologies
+- 💬 Ask me about Python, data visualization
 - 📫 How to reach me: karthikps365@gmail.com
-- ⚡ Fun fact: [A Fun Fact About You, e.g., I love hiking and have climbed 10+ mountains].
+- ⚡ Fun fact: **🏏 Cricket Enthusiast:** I love playing cricket and follow international matches closely. I’ve even played in a local league and enjoy analyzing game strategies.
+- **🎬 Movie Buff:** I’m a huge fan of movies and enjoy everything from classic films to the latest blockbusters. My favorite genres are [insert favorite genres, e.g., sci-fi and drama], and I often participate in movie discussions and reviews.
+- **🎵 Music Lover:** I have a passion for music and enjoy listening to a wide range of genres. I also play [mention any instruments if applicable, e.g., the guitar] and enjoy attending live music events whenever I can.
+
 
 ## 🛠️ Technologies & Tools
 
