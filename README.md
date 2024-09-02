@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/karthik-shreevathsa-p-535077297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/your-profile)
+- [Twitter](https://twitter.com/TechKarthi1718?t=82D4GH8Clz5dkGbrYAL-Fg&s=08)
 - [Website/Blog](https://your-website.com)
 
 ---
