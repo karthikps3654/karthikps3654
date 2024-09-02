@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, 
-- **Frameworks**: [e.g., React, Django, Flask]
-- **Tools**: [e.g., Git, Docker, Kubernetes]
+- **Frameworks**: React, Django
+- **Tools**: Git
 
 ## 📈 GitHub Stats
 
