@@ -1,19 +1,19 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Karthik Shreevathsa P
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests/Fields, e.g., software development, data science, etc.]. Here’s a bit about me:
+Welcome to my GitHub profile! I'm passionate about software development, data science, python . Here’s a bit about me:
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Current Learning Goals, e.g., advanced machine learning techniques].
-- 👯 I’m looking to collaborate on [Projects or Topics of Interest, e.g., open-source projects related to blockchain].
+- 🌱 I’m currently learning Advanced machine learning techniques,Web development
+- 👯 I’m looking to collaborate on Projects on AI & ML,open-source projects 
 - 🤔 I’m looking for help with [Specific Challenges or Learning Goals, e.g., optimizing algorithms].
 - 💬 Ask me about [Your Expertise or Interests, e.g., Python, data visualization, etc.].
-- 📫 How to reach me: [Your Email or Contact Info].
+- 📫 How to reach me: karthikps365@gmail.com
 - ⚡ Fun fact: [A Fun Fact About You, e.g., I love hiking and have climbed 10+ mountains].
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: [e.g., Python, JavaScript, Java]
+- **Languages**: [e.g., Python, JavaScript, 
 - **Frameworks**: [e.g., React, Django, Flask]
 - **Tools**: [e.g., Git, Docker, Kubernetes]
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests/Fields, e.g.,
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/karthik-shreevathsa-p-535077297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-profile)
 - [Website/Blog](https://your-website.com)
 
